@@ -1,4 +1,4 @@
-# visor.ai
+visor.ai
 Visual Question Answering model using. BERT and ResNet50, Made with Pytorch. Course project for CSL2010 (Intro. to ML). Hosted on Streamlit community cloud
 
 <p align="center">
